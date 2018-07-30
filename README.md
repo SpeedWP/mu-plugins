@@ -83,14 +83,14 @@ Ein aktuelles Update aller Plugins enthält einen einfachen Ein-Klick-Installati
 
 ### Plugin Repo Links
 
-https://github.com/o10n-x/wordpress-font-optimization.git
-https://github.com/o10n-x/wordpress-http2-optimization.git
-https://github.com/o10n-x/wordpress-security-header-optimization.git
-https://github.com/o10n-x/wordpress-css-optimization.git
-https://github.com/o10n-x/wordpress-javascript-optimization.git
-https://github.com/o10n-x/wordpress-file-page-cache.git
-https://github.com/o10n-x/wordpress-html-optimization.git
-https://github.com/o10n-x/wordpress-pwa-optimization.git
-https://github.com/o10n-x/wordpress-nginx-config-editor.git
+- https://github.com/o10n-x/wordpress-font-optimization.git
+- https://github.com/o10n-x/wordpress-http2-optimization.git
+- https://github.com/o10n-x/wordpress-security-header-optimization.git
+- https://github.com/o10n-x/wordpress-css-optimization.git
+- https://github.com/o10n-x/wordpress-javascript-optimization.git
+- https://github.com/o10n-x/wordpress-file-page-cache.git
+- https://github.com/o10n-x/wordpress-html-optimization.git
+- https://github.com/o10n-x/wordpress-pwa-optimization.git
+- https://github.com/o10n-x/wordpress-nginx-config-editor.git
 
 

@@ -10,7 +10,7 @@ https://codex.wordpress.org/Must_Verwendung_Plugins
 
 Das Stealth-Plugin würde eine Art Optimierungs-Proxy zur Verfügung stellen. Sie können die Konfiguration manuell aus dem Plugin heraus eingeben, indem Sie PHP-Dateien aus dem Theme-Verzeichnis einbinden, oder Sie können einen benutzerdefinierten physischen JSON-Konfigurationsdatei-Proxy verwenden, wie im folgenden Beispiel gezeigt.
 
-Genau wie bei.css-Dateien können Sie mehrere.json-Dateien verwenden, die Teile der Optimierungseinstellungen enthalten. Dies erleichtert die Verwaltung von Tausenden von Einstellungen.
+Genau wie bei `.css`-Dateien können Sie mehrere `.json`-Dateien verwenden, die Teile der Optimierungseinstellungen enthalten. Dies erleichtert die Verwaltung von Tausenden von Einstellungen.
 
 Sie können die Dateien in einem Verzeichnis Ihrer Wahl speichern, z.B. `/wp-content/optimization-config/`.
 

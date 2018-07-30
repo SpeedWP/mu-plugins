@@ -1,6 +1,4 @@
-# mu-plugins
-
-## WordPress WPO Collection
+# WordPress WPO Collection
 
 Dieses Plugin ist Teil einer Website-Performance-Optimierungssammlung, die die Optimierungen[CSS](https://github.com/o10n-x/wordpress-css-optimization),[Javascript)](https://github.com/o10n-x/wordpress-javascript-optimization),[HTML](https://github.com/o10n-x/wordpress-html-optimization),[Web Font](https://github.com/o10n-x/wordpress-font-optimization),[HTTP/2](https://github.com/o10n-x/wordpress-http2-optimization) und [Security Header](https://github.com/o10n-x/wordpress-security-header-optimization) enthält. 
 
@@ -59,9 +57,9 @@ Sie können die Dateien in einem Verzeichnis Ihrer Wahl speichern, z.B. `/wp-con
 su www-data
 cd ~/pagespeed.plus/htdocs
 git clone https://github.com/SpeedWP/mu-plugins.git
-wp plugin install --activate https://github.com/afragen/github-updater/archive/develop.zip
 ```
-## WordPress WPO Kollektion Installation
+
+## Github Updater Plugin Installation
 
 ![Github Updater](https://github.com/afragen/github-updater/raw/develop/assets/GitHub_Updater_logo_small.png)
 
@@ -73,6 +71,12 @@ Dieses Plugin kann mit [Github Updater](https://github.com/afragen/github-update
 
 Die Installation und Aktualisierung der Plugins ist mit dem Github Updater möglich. Es ist einfach, eines der Plugins zu installieren. Sie müssen lediglich das Github Updater-Plugin herunterladen ([zip-Datei](https://github.com/afragen/github-updater/archive/develop.zip)), es aus dem WordPress-Plugin-Verwaltungsfenster installieren und die Github-URL des Plugins in das Github Updater-Installationsprogramm kopieren.
 
+```bash
+su www-data
+cd ~/pagespeed.plus/htdocs
+wp plugin install --activate https://github.com/afragen/github-updater/archive/develop.zip
+```
+
 ![Bild](https://user-images.githubusercontent.com/8843669/39889846-46158cc2-5499-11e8-824d-720020f758db.png)
 
 *Schritt 2: Weitere Optimierungs-Plugins mit einem Klick installieren*
@@ -81,7 +85,7 @@ Ein aktuelles Update aller Plugins enthält einen einfachen Ein-Klick-Installati
 ![image](https://user-images.githubusercontent.com/8843669/39661507-cc1eac5e-5052-11e8-8fba-33c0cc959b07.png)
 </details>
 
-### Plugin Repo Links
+#### Plugin Repo Links
 
 - https://github.com/o10n-x/wordpress-font-optimization.git
 - https://github.com/o10n-x/wordpress-http2-optimization.git
@@ -93,4 +97,4 @@ Ein aktuelles Update aller Plugins enthält einen einfachen Ein-Klick-Installati
 - https://github.com/o10n-x/wordpress-pwa-optimization.git
 - https://github.com/o10n-x/wordpress-nginx-config-editor.git
 
-
+* * *
